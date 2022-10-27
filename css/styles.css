@@ -1,0 +1,19 @@
+    body {
+      background-color: #e2fde8
+    }
+
+    hr {
+      color: white;
+      border-style: none;
+      border-top: dotted 10px;
+      height: 3px;
+      width: 15%;
+
+    }
+
+    h1 {
+      color: aqua;}
+
+    h3 {
+      color: rgb(90, 180, 180);
+    }
